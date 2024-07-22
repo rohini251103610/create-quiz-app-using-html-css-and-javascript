@@ -1,0 +1,50 @@
+
+
+body{
+    margin:0px;
+    padding: 0px;
+}
+
+.section{
+    margin: 100px 400px;
+    width: 50%;
+}
+
+.section h1{
+    text-align: center;
+    color: crimson;
+}
+
+.container{
+    background-color:burlywood;
+    margin: 20px;
+    padding: 20px;
+    border: none;
+    border:2px solid black;
+  
+}
+
+.choice{
+    padding: 10px;
+}
+
+.bt1,.bt2,.bt3,.bt4{
+    padding:10px;
+}
+
+button{
+    padding: 10px;
+}
+
+.opt,.opt1{
+    width: 7%;
+    background-color: rgb(228, 80, 110);
+    border: none;
+}
+
+.ans,.ans1{
+    width: 60%;
+    text-align: left;
+    background-color: white;
+    border: none;
+}
